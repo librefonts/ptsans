@@ -1,0 +1,6 @@
+commit: HEAD
+process_files: [PT_Sans-Web-Regular.ttf.ttx, PT_Sans-Web-Italic.ttf.ttx, PT_Sans-Web-BoldItalic.ttf.ttx,
+  PT_Sans-Web-Bold.ttf.ttx]
+pyftsubset: --notdef-outline --name-IDs=* --hinting
+subset: [latin]
+ttfautohint: -l 7 -r 28 -G 50 -x 13 -w "G"

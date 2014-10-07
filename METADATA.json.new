@@ -1,0 +1,51 @@
+{
+  "name": "PT Sans",
+  "designer": "ParaType",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Sans Serif",
+  "size": 229341,
+  "fonts": [
+    {
+      "name": "PT Sans",
+      "style": "normal",
+      "weight": 700,
+      "filename": "PTSans-Bold.ttf",
+      "postScriptName": "PTSans-Bold",
+      "fullName": "PT Sans Bold",
+      "copyright": "Copyright (c) 2009 ParaType Ltd. All rights reserved."
+    },
+    {
+      "name": "PT Sans",
+      "style": "italic",
+      "weight": 700,
+      "filename": "PTSans-BoldItalic.ttf",
+      "postScriptName": "PTSans-BoldItalic",
+      "fullName": "PT Sans Bold Italic",
+      "copyright": "Copyright (c) 2009 ParaType Ltd. All rights reserved."
+    },
+    {
+      "name": "PT Sans",
+      "style": "italic",
+      "weight": 400,
+      "filename": "PTSans-Italic.ttf",
+      "postScriptName": "PTSans-Italic",
+      "fullName": "PT Sans Italic",
+      "copyright": "Copyright (c) 2009 ParaType Ltd. All rights reserved."
+    },
+    {
+      "name": "PT Sans",
+      "style": "normal",
+      "weight": 400,
+      "filename": "PTSans-Regular.ttf",
+      "postScriptName": "PTSans-Regular",
+      "fullName": "PT Sans",
+      "copyright": "Copyright (c) 2009 ParaType Ltd. All rights reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2010-09-21"
+}
